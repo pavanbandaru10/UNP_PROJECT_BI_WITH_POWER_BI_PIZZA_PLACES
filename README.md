@@ -1,4 +1,4 @@
-# UNP_Project_Pizza_Places_Analysis_With_Power_BI
+# UNP Project Pizza Places Analysis With Power BI
 
 ### Dashboard Link : https://drive.google.com/file/d/1hnl182z-llVkfrC09MM2GbNKMLQa7lT2/view?usp=sharing
 
