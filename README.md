@@ -1,4 +1,4 @@
-# UNP_Project_BI_WITH_POWER_BI_PIZZA_PLACES_ANALYSIS
+# UNP_PROJECT_BI_WITH_POWER_BI_PIZZA_PLACES_ANALYSIS
 
 ### Dashboard PDF Link : https://drive.google.com/file/d/1hnl182z-llVkfrC09MM2GbNKMLQa7lT2/view?usp=sharing
 ### PBIX File Link: https://drive.google.com/file/d/11uywg3kMLPDdK_hYVWJJk_-E7njArQMn/view?usp=sharing
